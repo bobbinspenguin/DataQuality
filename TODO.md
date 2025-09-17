@@ -1,6 +1,7 @@
 # Remove feed reference
 * Change feed to datasource
 * Change file/filename to table/table_name
+* Rename parameters for public methods
 
 # Single to multiple entities
 * Update file_validation to be entity_validation or schema_validation
@@ -14,6 +15,7 @@
 * Add method to record the number of rows dropped in row processing
 
 # Other
+* return deep copies of class attributes where appropriate
 * `_expect_relative_date` contains hardcoded variable `validation` - is this required or should it be parameterised?
 * `_expect_format` accepts `format` parameter but does not use it?
 
