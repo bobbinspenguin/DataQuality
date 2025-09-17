@@ -4,11 +4,11 @@
 * Rename parameters for public methods
 
 # Single to multiple entities
-* Update file_validation to be entity_validation or schema_validation
+* Update file_validation
 
 
 # New
-* Add source to target mapping - `data_
+* Add source to target mapping (`data_mapping`)
 * Add schema validation to work in a similar way to file validation
 * Update `_get_lookup_table` to accept optional query as opposed to table name
 * Add method to log information about processed and failed entities
