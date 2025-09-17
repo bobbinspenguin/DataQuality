@@ -15,7 +15,6 @@
 * Add method to record the number of rows dropped in row processing
 
 # Other
-* return deep copies of class attributes where appropriate
 * `_expect_relative_date` contains hardcoded variable `validation` - is this required or should it be parameterised?
 * `_expect_format` accepts `format` parameter but does not use it?
 
