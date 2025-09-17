@@ -6,6 +6,8 @@
 # Single to multiple entities
 * Update file_validation
 
+* add Spark schema for errors and method logs returned dataframe
+* Add attribute for `self._rows_dropped_in_rowprocessing = None`
 
 # New
 * Add source to target mapping (`data_mapping`)
