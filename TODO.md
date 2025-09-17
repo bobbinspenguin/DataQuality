@@ -8,7 +8,7 @@
 
 
 # New
-* Add source to target mapping
+* Add source to target mapping - `data_
 * Add schema validation to work in a similar way to file validation
 * Update `_get_lookup_table` to accept optional query as opposed to table name
 * Add method to log information about processed and failed entities
